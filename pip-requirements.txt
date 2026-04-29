@@ -1,6 +1,19 @@
-numpy
-matplotlib
-matplotlib-venn
-biopython
-dREP
+# Scientific packages
+numpy>=1.24.0
+pandas>=2.0.0
+matplotlib>=3.7.0
+matplotlib-venn>=0.11.9
+biopython>=1.81
+dREP>=3.4.3
+
+# Testing and code quality
+pytest>=7.4.0
+pytest-cov>=4.1.0
+black>=23.7.0
+flake8>=6.0.0
+pylint>=2.17.0
+mypy>=1.4.0
+
+# Documentation
+sphinx>=7.0.0
 
