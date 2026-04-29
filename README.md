@@ -8,6 +8,15 @@
 
 This repository provides automated shell scripts and Python tools to streamline bacterial genome assembly, annotation, and comparative analysis. Whether you're new to bioinformatics or an experienced researcher, these scripts will help you perform complex analyses without the hassle of manually wrangling individual tools.
 
+## Project Description
+
+This is a maintained, modernized fork of the original bacterial genomics tutorial pipeline. It preserves the original end-to-end workflow while adding a structured runner, standardized outputs, tests, and improved documentation. The goal is to make bacterial comparative genomics reproducible, teachable, and easy to run for both classroom use and small research projects.
+
+Key goals:
+- Provide a complete, runnable pipeline from raw reads to comparative analysis
+- Reduce setup friction with pinned dependencies and better diagnostics
+- Offer a consistent output layout for downstream analysis and reporting
+
 **🎥 Learn More:**
 - [YouTube Tutorials](https://www.youtube.com/playlist?list=PLe1-kjuYBZ074A06NOuO9rXCTD3ddoOyz)
 - [Original Author Channel](https://www.youtube.com/channel/UCOJM9xzqDc6-43j2x_vXqCQ)
@@ -502,9 +511,10 @@ MIT License - See [LICENSE](LICENSE) for details.
 
 ## 📞 Support & Resources
 
-- **YouTube Tutorials:** [Bacterial Genome Analysis Playlist](https://www.youtube.com/playlist?list=PLe1-kjuYBZ074A06NOuO9rXCTD3ddoOyz)
-- **Support Original Author:** [Buy Me a Coffee](https://www.buymeacoffee.com/bioinfocoach)
-- **Questions?** Check [MODERNIZATION_GUIDE.md](MODERNIZATION_GUIDE.md) or open an issue
+- **Maintainer:** [Zian Asif](https://github.com/Zianasif)
+- **Project Issues:** [Report bugs or request features](https://github.com/Zianasif/bacterial-genomics-tutorial/issues)
+- **Project Docs:** [MODERNIZATION_GUIDE.md](MODERNIZATION_GUIDE.md) and [QUICK_REFERENCE.md](QUICK_REFERENCE.md)
+- **Original Project (reference):** [vappiah/bacterial-genomics-tutorial](https://github.com/vappiah/bacterial-genomics-tutorial)
 
 ---
 
@@ -512,11 +522,12 @@ MIT License - See [LICENSE](LICENSE) for details.
 
 | Resource | Link |
 |----------|------|
+| This Repository | https://github.com/Zianasif/bacterial-genomics-tutorial |
 | Quick Reference | [QUICK_REFERENCE.md](QUICK_REFERENCE.md) |
 | Modernization Guide | [MODERNIZATION_GUIDE.md](MODERNIZATION_GUIDE.md) |
 | Modernization Summary | [MODERNIZATION_SUMMARY.md](MODERNIZATION_SUMMARY.md) |
-| Original Repository | [vappiah/bacterial-genomics-tutorial](https://github.com/vappiah/bacterial-genomics-tutorial) |
-| YouTube Tutorials | [Playlist](https://www.youtube.com/playlist?list=PLe1-kjuYBZ074A06NOuO9rXCTD3ddoOyz) |
+| Original Repository (reference) | [vappiah/bacterial-genomics-tutorial](https://github.com/vappiah/bacterial-genomics-tutorial) |
+| Original Tutorials (reference) | [Playlist](https://www.youtube.com/playlist?list=PLe1-kjuYBZ074A06NOuO9rXCTD3ddoOyz) |
 
 ---
 
